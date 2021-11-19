@@ -1,3 +1,13 @@
+# Autores
+- Pedro Baleroni
+- Renan Souto
+
+## Data Original de Envio:
+-19/11/2021
+
+## Principal Tecnologia:
+Lumen (php)
+
 # Inicialização
 
 - Instalação do Lumen:
@@ -23,6 +33,10 @@
 ```PUT - http://localhost:8000/api/movies/update/?```
 - Remover:
 ```DELETE - http://localhost:8000/api/movies/del/?```
+
+
+## Status
+![fa374ea6321e5f34465f22375bd8a301](https://user-images.githubusercontent.com/31959881/142559665-286dfa05-d69f-47c7-9078-c534915a6c08.jpg)
 
 # Lumen PHP Framework
 
